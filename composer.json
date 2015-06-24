@@ -1,0 +1,15 @@
+{
+    "name": "wouter/hashid-benchmark",
+    "authors": [
+        {
+            "name": "Wouter",
+            "email": "kielabokkie@gmail.com"
+        }
+    ],
+    "require": {
+        "guidsen/fake-identifier": "dev-master",
+        "hashids/hashids": "1.0.5",
+        "devster/ubench": "~1.1"
+    },
+    "minimum-stability": "dev"
+}
